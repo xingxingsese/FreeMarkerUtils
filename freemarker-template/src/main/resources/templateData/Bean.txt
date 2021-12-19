@@ -1,0 +1,10 @@
+{
+  "columns": [{
+    "columnType": "int",
+    "columnName": "id"
+  }, {
+    "columnType": "String",
+    "columnName": "name"
+  }],
+  "className": "User"
+}
